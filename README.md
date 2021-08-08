@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohlalaComfort&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohlalaComfort=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=MohlalaComfort.MohlalaComfort)
