@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 <p align="center">
-![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+    <![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)>
 </p>
 ![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) 
 ![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)
