@@ -1,4 +1,5 @@
 ### Hi there, welcome to my Github space  👋
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=MohlalaComfort.MohlalaComfort)  [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/MohlalaComfort)
 <!--
 **MohlalaComfort/MohlalaComfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohlalaComfort&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohlalaComfort&theme=tokyonight)
 
 
