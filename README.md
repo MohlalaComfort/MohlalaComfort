@@ -25,7 +25,24 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohlalaComfort&theme=tokyonight)
 
 ---
+<style> 
+#main {
+  width: 70px;
+  height: 300px;
+  border: 1px solid #c3c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+#main div {
+  width: 70px;
+  height: 70px;
+}
+</style>
+<div id ="main">
 Connect with me <br><br>
 ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)
 ![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) 
 ![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)
+</div>
